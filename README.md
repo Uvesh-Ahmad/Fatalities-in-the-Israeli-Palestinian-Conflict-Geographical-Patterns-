@@ -38,3 +38,17 @@ The journey through this project reinforced the transformative potential of Data
 
 
 Let's persist in our quest to explore the world through data and uncover insights that light the way to a brighter future. 🚀💡
+
+<h4>Connect Me!</h4>
+<div align="right"> 
+  <a href="mailto:siddiquiuvesh20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/uvesh-ahmad-a2aa6816a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://uvesh-ahmad.github.io/uvesh.ah/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
