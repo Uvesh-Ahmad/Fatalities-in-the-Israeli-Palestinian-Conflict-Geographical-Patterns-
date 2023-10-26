@@ -1,3 +1,4 @@
+<h2> Project</h2>
 According to Data: 2000 - 2023
 <h1>Comprehensive Analysis of Fatalities in the Israeli-Palestinian Conflict: Demographics, Causes, and Geographical Patterns</h1>
 
